@@ -1,2 +1,2 @@
 # rust_experiments
-Experimenting with Rust language
+Experiments using Rust language
